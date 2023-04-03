@@ -11,7 +11,8 @@ module.exports = {
         }
       },
       fontFamily: {
-        bash: ['Poppins']
+        bash: ['Poppins'],
+        new: ['Nunito']
       }
     },
   },
